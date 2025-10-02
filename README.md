@@ -18,8 +18,3 @@ This was part of my Master’s research work, where I translated a cutting-edge 
 - **Deep learning (PyTorch)**  
 and demonstrates the interplay between mathematics, finance, and AI.
 
-
-
-```bash
-pip install -r requirements.txt
-python src/training_bs.py
