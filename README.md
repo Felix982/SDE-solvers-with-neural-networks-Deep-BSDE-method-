@@ -9,12 +9,6 @@ This repository contains my **PyTorch implementation of the Deep BSDE method** f
   - **Hamilton–Jacobi–Bellman (HJB) equations** (control theory).
   - Additional nonlinear drivers from the paper.
 - Includes **training loops, evaluation metrics (RMSE, correlation, relative error), and plotting utilities**.
-- Optimized for **GPU training with checkpointing and mixed precision**.
 
 ### Why this project?
-This was part of my Master’s research work, where I translated a cutting-edge mathematical method into working code. It combines:
-- **Probability & SDE theory**
-- **Numerical analysis**
-- **Deep learning (PyTorch)**  
-and demonstrates the interplay between mathematics, finance, and AI.
-
+I had a lot of free time before the start of my M2 (MVA) and I wanted to work with SDE's (I love stochastic calculus) and solidify my torch skills
